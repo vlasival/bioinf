@@ -3,6 +3,8 @@
 Я взял ген
 [MC1R melanocortin 1 receptor](https://www.ncbi.nlm.nih.gov/gene/4157)
 
+Ген в FASTA формате лежит в файле [gene.txt](gene.txt)
+
 Настройки **BLAST**:
 
 ![img](<Screenshot 2025-05-05 232403.png>)
